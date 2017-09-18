@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityInstallationDir>C:\Program Files\Unity\Editor\</UnityInstallationDir>
+        <UnityWSASolutionName>AAC_with_Hololens_project</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Victória\Documents\IC\AAC_with_Hololens\AAC_with_Hololens_project\build\</UnityWSASolutionDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+        <UnityProjectDir>C:\Users\Victória\Documents\IC\AAC_with_Hololens\AAC_with_Hololens_project\</UnityProjectDir>
+    </PropertyGroup>
+</Project>
